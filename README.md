@@ -4,7 +4,7 @@
 
 This project implements a **Secure File Transfer System** using **Python**, ensuring safe communication over an insecure network. The system uses **AES encryption (Fernet)** and **TCP/IP socket programming** to protect data confidentiality and integrity during transmission.
 
----
+
 
 ## 🚀 Features
 
